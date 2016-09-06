@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_weather_main">Weather</string>
+
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="windSpeed">Wind speed</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="zip_alert_dialog_title">Input Zip Code</string>
+
+    <string name="last_updated">Last Updated</string>
+    <string name="never">Never</string>
+
+
+    <string-array name="zip_code_array">
+        <item>78613</item>
+        <item>92656</item>
+        <item>77578</item>
+    </string-array>
+
+    <string-array name="places_array">
+        <item>Anderson Mill</item>
+        <item>Aliso Viejo</item>
+        <item>Iowa Colony</item>
+    </string-array>
+
+</resources>
